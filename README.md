@@ -1,2 +1,2 @@
-# pageupgang.github.io
-The Website
+# The Page Up Gang
+Website
